@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@bahmutov/cy-api": "^2.2.3"
+  }
+}
