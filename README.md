@@ -2,7 +2,7 @@
 # tblx-challenge-qa-engineer-strava-api
 
 <h1 align="left">
-    <img src=".github/strava_logo_nav" width="250px">
+    <img src=".github/strava_logo_nav.png" width="250px">
 </h1>
 
 
